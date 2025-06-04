@@ -86,7 +86,7 @@ header .desktop {
     display: none;
 }
 
-media {
+main {
     max-width: 1110px;
     margin-inline: auto;
 }
